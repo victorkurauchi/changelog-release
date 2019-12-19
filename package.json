@@ -1,0 +1,25 @@
+{
+  "name": "changelog-release",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorkurauchi/changelog-release.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorkurauchi/changelog-release/issues"
+  },
+  "homepage": "https://github.com/victorkurauchi/changelog-release#readme",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^1.1.0",
+    "release-it": "^12.4.3"
+  }
+}
