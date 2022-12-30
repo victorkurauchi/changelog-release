@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/victorkurauchi/changelog-release#readme",
   "devDependencies": {
-    "@release-it/conventional-changelog": "^1.1.0",
-    "release-it": "^12.4.3"
+    "@release-it/conventional-changelog": "^1.1.4",
+    "release-it": "^15.6.0"
   }
 }
